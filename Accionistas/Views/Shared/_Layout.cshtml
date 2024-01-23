@@ -23,7 +23,7 @@
                         <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="" asp-controller="Acta" asp-action="Index">Actas</a>
+                        <a class="nav-link text-dark" asp-area="" asp-controller="CartaPoder" asp-action="Index">Carta Poder</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
@@ -47,7 +47,8 @@
 <script src="~/lib/jquery/dist/jquery.min.js"></script>
 <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 <script src="~/js/site.js" asp-append-version="true"></script>
-<script src="~/lib/node_modules/jspdf/dist/jspdf.node.js"> </script>
+<script src="~/lib/node_modules/jspdf/dist/jspdf"> </script>
+<script src="~/js/ActaPdfExport.js"></script>
 
 @await RenderSectionAsync("Scripts", required: false)
 </body>

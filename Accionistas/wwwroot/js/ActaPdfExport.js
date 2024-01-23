@@ -1,6 +1,8 @@
-import * as jsPDF from '../lib/node_modules/jspdf/dist/jspdf.node.js'
+import * as jsPDF from '../lib/node_modules/jspdf/dist/jspdf' type = "module"
 
-export default function CartaPoder() {
+export function CartaPoder() {
+
+    alert("Hola de la funcion de carta poder");
 
     let doc = new jsPDF.default('portrait', 'mm', [290, 210])
 

@@ -1,22 +1,19 @@
 @page
 @model Accionistas.Views.Acta.Index
 
-@{
-    Layout = null;
-}
 
 <!DOCTYPE html>
 
 <html>
 <head>
     <title>Carta Poder</title>
-    <script type="module" src="~/js/ActaPdfExport.js"></script>
     <script type="module" src="~/js/site.js"></script>
-</head> 
+    <script type="module" src="~/js/ActaPdfExport.js"></script>
+</head>
 <body>
-<div>
-    <input type="button" value="" onclick="CartaPoder()">
-</div>
+    <div>
+        <button id="GenerarCarta" type="button">GenerarCarta</button>
+    </div>
 
 </body>
 </html>

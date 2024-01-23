@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Accionistas
 build_property.RootNamespace = Accionistas
-build_property.ProjectDir = C:\laragon\www\MDJ_Solutions\BNC_data\Accionistas\Accionistas\
+build_property.ProjectDir = D:\cslab\Accionistas\Accionistas\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\laragon\www\MDJ_Solutions\BNC_data\Accionistas\Accionistas
+build_property.MSBuildProjectDirectory = D:\cslab\Accionistas\Accionistas
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/laragon/www/MDJ_Solutions/BNC_data/Accionistas/Accionistas/Views/Acta/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0YVxJbmRleC5jc2h0bWw=
+[D:/cslab/Accionistas/Accionistas/Views/CartaPoder/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFQb2RlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/laragon/www/MDJ_Solutions/BNC_data/Accionistas/Accionistas/Views/Home/Index.cshtml]
+[D:/cslab/Accionistas/Accionistas/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/laragon/www/MDJ_Solutions/BNC_data/Accionistas/Accionistas/Views/Home/Privacy.cshtml]
+[D:/cslab/Accionistas/Accionistas/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/laragon/www/MDJ_Solutions/BNC_data/Accionistas/Accionistas/Views/Shared/Error.cshtml]
+[D:/cslab/Accionistas/Accionistas/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/laragon/www/MDJ_Solutions/BNC_data/Accionistas/Accionistas/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/cslab/Accionistas/Accionistas/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/laragon/www/MDJ_Solutions/BNC_data/Accionistas/Accionistas/Views/_ViewImports.cshtml]
+[D:/cslab/Accionistas/Accionistas/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/laragon/www/MDJ_Solutions/BNC_data/Accionistas/Accionistas/Views/_ViewStart.cshtml]
+[D:/cslab/Accionistas/Accionistas/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/laragon/www/MDJ_Solutions/BNC_data/Accionistas/Accionistas/Views/Shared/_Layout.cshtml]
+[D:/cslab/Accionistas/Accionistas/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jqgcyl7373
